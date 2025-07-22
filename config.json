@@ -73,6 +73,10 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
+    "viu": {
+      "api": "https://www.viu.com/ott/hk/api.php/provide/vod",
+      "name": "viutv",
+      "detail": "https://www.viu.com/ott/hk"
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
