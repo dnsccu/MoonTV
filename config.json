@@ -77,6 +77,7 @@
       "api": "https://www.viu.com/ott/hk/api.php/provide/vod",
       "name": "viutv",
       "detail": "https://www.viu.com/ott/hk"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
@@ -89,5 +90,12 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-  }
+  },
+  "custom_category": [
+    {
+      "name": "华语",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
 }
